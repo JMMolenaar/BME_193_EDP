@@ -4,7 +4,7 @@ _9/19 - 4:30pm Sci Tec Room 134_
 
 Version control systems
 
-* RCS 
+* [RCS](http://www.gnu.org/software/rcs/rcs.html)
 * CVS 
 * Subversion 
 * Bazaar 
