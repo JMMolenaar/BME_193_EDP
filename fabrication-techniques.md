@@ -10,6 +10,6 @@ Software
 * [123D Design](http://www.123dapp.com/design)
 * [Antimony](http://www.mattkeeter.com/projects/antimony/3/)
 * [123D Make](http://www.123dapp.com/make)
-* [Pepakura](http://www.tamasoft.co.jp/pepakura-en/)
+* [Pepakura](http://www.tamasoft.co.jp/pepakura-en/) [\(Example at Taipei Maker Faire\)](https://photos.google.com/u/1/photo/AF1QipObTyCGDY3e54Pm-Tr-jq1o_FK8t19K8KuexHfE)
 * 
 
