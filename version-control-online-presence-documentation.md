@@ -1,8 +1,9 @@
 # Version control, online presence and documentation
 
-_9\/19 - 4:30pm Sci Tec Room 134_
+_9/19 - 4:30pm Sci Tec Room 134_
 
 Version control systems
+
 * RCS 
 * CVS 
 * Subversion 
@@ -16,16 +17,18 @@ Version control systems
 * GitLab
 
 Web development
+
 * W3C HTML HTML5 
 * Markdown 
 * GitBook 
-* (g)vim emacs 
+* \(g\)vim emacs 
 * Atom Sublime Geany 
 * Brackets Eclipse 
 * LibreOffice SeaMonkey Dreamweaver 
 * JavaScript Bootstrap jQuery
 
 CMS
+
 * Jekyll 
 * DokuWiki 
 * TiddlyWiki 
@@ -37,9 +40,4 @@ CMS
 * WordPress 
 * Drupal 
 * Moodle 
-
-
- 
-
-
 

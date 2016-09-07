@@ -1,6 +1,6 @@
-# Fabrication techniques \/ Computer aided design
+# Fabrication techniques / Computer aided design
 
-_9\/19 - 4:30pm Sci Tec Room 134_
+_9/19 - 4:30pm Sci Tec Room 134_
 
 Raster vs. Vector
 
