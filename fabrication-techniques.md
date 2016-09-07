@@ -7,9 +7,10 @@ Raster vs. Vector
 Raster
 
 * [Gimp](https://www.gimp.org/downloads/)
-* [Photoshop]()
-* [MyPaint]()
-* 
+* [Photoshop](http://www.adobe.com/products/photoshop.html)
+* [MyPaint](http://mypaint.org)
+* [Krita](https://krita.org)
+
 
 Vector
 
