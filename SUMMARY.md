@@ -5,4 +5,5 @@
 * [Fabrication techniques](fabrication-techniques.md)
 * [Embedded programming](embedded-programming.md)
 * [Computer controlled cutting](computer-controlled-cutting.md)
+* [3D Printing](3d-printing.md)
 
