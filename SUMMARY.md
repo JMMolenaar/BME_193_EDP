@@ -6,4 +6,5 @@
 * [Embedded programming](embedded-programming.md)
 * [Computer controlled cutting](computer-controlled-cutting.md)
 * [3D Printing](3d-printing.md)
+* [Computer controlled machining](computer-controlled-machining.md)
 
